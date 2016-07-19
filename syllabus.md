@@ -59,11 +59,7 @@ Every week, you'll be tasked with one or more of:
 
 ## Final group projects
 
-In week 3, students will bring pitch ideas to class. We'll work together to form groups of 2-4 students to tackle the strongest pitch ideas.
-
-The project could be a typical long-read, a [sequential visual story](https://source.opennews.org/en-US/learning/evolution-nprs-picture-stories/) like [Demolished](http://apps.npr.org/lookatthis/posts/publichousing/) or a [Twitter bot](https://twitter.com/officer1070) like Officer 1070 or just about anything else as long as it involves data, the Internet, and news reporting. Projects can and should publish on multiple platforms and contain multiple components such as a social video, long-read page, and standalone interactive.
-
-On the final class date, each group will give a short presentation showing off your work to the class and explaining your process behind the storytelling.
+Just kidding, no final projects this time.
 
 ## Grading
 
@@ -73,13 +69,11 @@ You are expected to be timely, contribute to discussions, and tackle hands-on wo
 
 Guests require your full attention, which means no devices. Students who spend more than a few minutes on their phones or laptops while a guest is speaking will be given a participation grade of zero for that session.
 
-### Homework: 40%
+### Homework: 60%
 
-Submit your homework by the evening of class.
+Submit your homework by the evening of class unless otherwise specified. 
 
-### Final project and presentation: 20%
-
-As discussed above, you'll be expected to complete a large project around 6 weeks into the class. 
+Late homework will be docked 5% per day late. Homework turned in later than 3 days will not be accepted.
 
 ## Weekly schedule:
 
